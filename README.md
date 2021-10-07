@@ -2,7 +2,7 @@
 Just Another Repository
 
 first repo
-Quite great to refreshcken we started...
+Quite great to  we started...
 
 
 ok, am just new in using github for joint project
